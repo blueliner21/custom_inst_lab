@@ -1,0 +1,1 @@
+# custom_inst_lab  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/blueliner21/custom_inst_lab.gitgit push -u origin master
